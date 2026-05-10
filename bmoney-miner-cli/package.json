@@ -1,0 +1,17 @@
+{
+  "name": "bmoney-miner",
+  "version": "1.0.0",
+  "description": "CLI Mining Bot untuk B-Money Protocol — SHA-256 proof-of-work dengan dashboard real-time",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "mine":  "node index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": ["bmoney", "mining", "sha256", "proof-of-work", "cli", "nodejs"],
+  "author": "Timoculz",
+  "license": "MIT"
+}
