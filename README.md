@@ -26,7 +26,7 @@ bmoney-miner/
 
 ### 1. Clone repo
 ```bash
-git clone https://github.com/LuzAjj/bmoney-miner.git
+git clone https://github.com/LuzAjj/bmoneycli.git
 cd bmoney-miner
 ```
 
